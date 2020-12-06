@@ -19,4 +19,10 @@ Faculty related modules
              
 
 
+ IMAGE OF HOME PAGE
+ ![](images/cbms_home.png)
  
+ 
+ SAMPLE IMAGES
+ ![](images/login.png)
+ ![](images/find_projects.png)
